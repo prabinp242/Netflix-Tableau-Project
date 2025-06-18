@@ -43,14 +43,9 @@ To explore and present insightful patterns in Netflix’s content library using 
 - Drama, Comedy, and Documentary are the most common genres  
 - TV Shows have grown faster than Movies in recent years
 
-### How to Use
-
-1. Open the Tableau file: `Reinforcement - Netflix.twb`
-2. When prompted, load the data source `Netflix Dataset.csv`
-3. Explore the dashboard using filters and visuals
-
 ### Dashboard Preview
 <a href="https://github.com/prabinp242/Netflix-Tableau-Project/blob/main/Netflix%20Dashboard.jpg"> Final Dashboard<a/>
+
 ### Conclusion
 
 This project demonstrates how **Tableau** can transform raw data into interactive visual stories.
