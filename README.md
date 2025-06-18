@@ -1,5 +1,3 @@
-## Netflix-Tableau-Project
-Explore Netflix trends across genres, countries, and time using Tableau visualizations.
 ## Netflix Tableau Dashboard Project
 
 An interactive data visualization project created in **Tableau** to explore trends in Netflix content such as release years, content types, ratings, genres, and global distribution. This project showcases data preparation, dashboard design, and visual storytelling capabilities.
