@@ -1,12 +1,12 @@
 ## Netflix-Tableau-Project
 Explore Netflix trends across genres, countries, and time using Tableau visualizations. This project showcases data cleaning, dashboard creation, and insight generation from a 6,000+ record dataset.
-## 📊 Netflix Tableau Dashboard Project
+## Netflix Tableau Dashboard Project
 
 An interactive data visualization project created in **Tableau** to explore trends in Netflix content such as release years, content types, ratings, genres, and global distribution. This project showcases data preparation, dashboard design, and visual storytelling capabilities.
 
 ---
 
-### 📁 Files Included
+### Files Included
 
 - `Netflix Dataset.csv` – Cleaned Netflix dataset with over 6,200 records.
 - `Reinforcement - Netflix.twb` – Tableau workbook file with all dashboards and visualizations.
@@ -14,7 +14,7 @@ An interactive data visualization project created in **Tableau** to explore tren
 
 ---
 
-### 🎯 Project Objective
+### Project Objective
 
 To explore and present insightful patterns in Netflix’s content library using Tableau dashboards. The project focuses on:
 
@@ -25,7 +25,7 @@ To explore and present insightful patterns in Netflix’s content library using 
 
 ---
 
-### 📊 Dashboard Features
+### Dashboard Features
 
 - **Line Graph**: Movies & TV Shows added per year
 - **Map Chart**: Content distribution by country
@@ -37,7 +37,7 @@ To explore and present insightful patterns in Netflix’s content library using 
 
 ---
 
-### 🛠️ Tools & Skills Used
+### Tools & Skills Used
 
 - Tableau Desktop
 - Data Cleaning & Preparation
@@ -47,4 +47,4 @@ To explore and present insightful patterns in Netflix’s content library using 
 
 ---
 
-### 🔍 Key Insights
+### Key Insights
