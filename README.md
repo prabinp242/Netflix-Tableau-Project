@@ -50,8 +50,7 @@ To explore and present insightful patterns in Netflix’s content library using 
 3. Explore the dashboard using filters and visuals
 
 ### Dashboard Preview
-
-
+<a href="https://github.com/prabinp242/Netflix-Tableau-Project/blob/main/Netflix%20Dashboard.jpg"> Final Dashboard<a/>
 ### Conclusion
 
 This project demonstrates how **Tableau** can transform raw data into interactive visual stories.
