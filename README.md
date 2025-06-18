@@ -51,10 +51,6 @@ To explore and present insightful patterns in Netflix’s content library using 
 
 ### Dashboard Preview
 
-*(You can add a screenshot image here later by uploading and linking it)*  
-`![Dashboard Preview](images/dashboard_preview.png)`
-
----
 
 ### Conclusion
 
